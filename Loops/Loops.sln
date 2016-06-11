@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1.csproj", "{EC660A0F-681E-495D-82B4-0DEA2F937599}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops.csproj", "{13C23CB4-8E64-4C98-A590-39BC5AD6E554}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EC660A0F-681E-495D-82B4-0DEA2F937599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC660A0F-681E-495D-82B4-0DEA2F937599}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC660A0F-681E-495D-82B4-0DEA2F937599}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC660A0F-681E-495D-82B4-0DEA2F937599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C23CB4-8E64-4C98-A590-39BC5AD6E554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C23CB4-8E64-4C98-A590-39BC5AD6E554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C23CB4-8E64-4C98-A590-39BC5AD6E554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C23CB4-8E64-4C98-A590-39BC5AD6E554}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
